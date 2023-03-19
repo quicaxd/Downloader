@@ -1,0 +1,13 @@
+C:\Users\anani\source\repos\Downloader\Downloader\bin\Debug\Downloader.exe.config
+C:\Users\anani\source\repos\Downloader\Downloader\bin\Debug\Downloader.exe
+C:\Users\anani\source\repos\Downloader\Downloader\bin\Debug\Downloader.pdb
+C:\Users\anani\source\repos\Downloader\Downloader\bin\Debug\Guna.UI2.dll
+C:\Users\anani\source\repos\Downloader\Downloader\obj\Debug\Downloader.csproj.AssemblyReference.cache
+C:\Users\anani\source\repos\Downloader\Downloader\obj\Debug\Downloader.csproj.SuggestedBindingRedirects.cache
+C:\Users\anani\source\repos\Downloader\Downloader\obj\Debug\Downloader.Form1.resources
+C:\Users\anani\source\repos\Downloader\Downloader\obj\Debug\Downloader.Properties.Resources.resources
+C:\Users\anani\source\repos\Downloader\Downloader\obj\Debug\Downloader.csproj.GenerateResource.cache
+C:\Users\anani\source\repos\Downloader\Downloader\obj\Debug\Downloader.csproj.CoreCompileInputs.cache
+C:\Users\anani\source\repos\Downloader\Downloader\obj\Debug\Downloader.csproj.CopyComplete
+C:\Users\anani\source\repos\Downloader\Downloader\obj\Debug\Downloader.exe
+C:\Users\anani\source\repos\Downloader\Downloader\obj\Debug\Downloader.pdb

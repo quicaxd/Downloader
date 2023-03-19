@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Downloader", "Downloader\Downloader.csproj", "{7C25AD9C-9B4A-4640-9E8A-917F072064D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stub", "stub\stub.csproj", "{CFDB6509-131E-4379-80C5-71B3CA7CCAB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C25AD9C-9B4A-4640-9E8A-917F072064D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C25AD9C-9B4A-4640-9E8A-917F072064D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C25AD9C-9B4A-4640-9E8A-917F072064D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C25AD9C-9B4A-4640-9E8A-917F072064D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDB6509-131E-4379-80C5-71B3CA7CCAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDB6509-131E-4379-80C5-71B3CA7CCAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDB6509-131E-4379-80C5-71B3CA7CCAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDB6509-131E-4379-80C5-71B3CA7CCAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22E22323-5FD1-4A5D-AAB3-F7BF862350AF}
+	EndGlobalSection
+EndGlobal
